@@ -1,0 +1,11 @@
+[package]
+name = "rastogi_aes_ctr_mode"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.8"
+ctr = "0.9"
+rand = "0.8"
+hex = "0.4"
+sha2 = "0.10"
